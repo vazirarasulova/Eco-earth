@@ -1,0 +1,9 @@
+.box{
+  background-image: url("../../assets/images/project.png");
+  background-repeat: no-repeat;
+}
+
+.box-mox{
+  left: 43%;
+  bottom: -50px;
+}
